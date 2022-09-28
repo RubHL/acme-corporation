@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Acme Corporation</title>
-    <link>https://example.org/blog/</link>
+    <link>https://rubhl.github.io/acme-corporation/blog/</link>
     <description>Recent content in Blogs on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 28 Sep 2022 16:21:36 +0200</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 16:21:36 +0200</lastBuildDate><atom:link href="https://rubhl.github.io/acme-corporation/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Viajar_barato</title>
-      <link>https://example.org/blog/viajar_barato/</link>
+      <link>https://rubhl.github.io/acme-corporation/blog/viajar_barato/</link>
       <pubDate>Wed, 28 Sep 2022 16:21:36 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/blog/viajar_barato/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/blog/viajar_barato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experiencias</title>
-      <link>https://example.org/blog/experiencias/</link>
+      <link>https://rubhl.github.io/acme-corporation/blog/experiencias/</link>
       <pubDate>Wed, 28 Sep 2022 16:21:18 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/blog/experiencias/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/blog/experiencias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vaciones</title>
-      <link>https://example.org/blog/vacaciones/</link>
+      <link>https://rubhl.github.io/acme-corporation/blog/vacaciones/</link>
       <pubDate>Wed, 28 Sep 2022 16:20:46 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/blog/vacaciones/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/blog/vacaciones/</guid>
       <description></description>
     </item>
     

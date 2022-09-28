@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/</loc>
     <lastmod>2022-09-28T17:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/contacto/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/contacto/</loc>
     <lastmod>2022-09-28T16:45:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/about/</loc>
     <lastmod>2022-09-28T16:44:55+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/curriculum/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/curriculum/</loc>
     <lastmod>2022-09-28T16:21:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/blog/</loc>
     <lastmod>2022-09-28T16:21:36+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/viajar_barato/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/blog/viajar_barato/</loc>
     <lastmod>2022-09-28T16:21:36+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/experiencias/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/blog/experiencias/</loc>
     <lastmod>2022-09-28T16:21:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/vacaciones/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/blog/vacaciones/</loc>
     <lastmod>2022-09-28T16:20:46+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/viajes/china/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/viajes/china/</loc>
     <lastmod>2022-09-28T16:20:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/viajes/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/viajes/</loc>
     <lastmod>2022-09-28T16:20:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/viajes/alemania/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/viajes/alemania/</loc>
     <lastmod>2022-09-28T16:20:03+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/viajes/italia/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/viajes/italia/</loc>
     <lastmod>2022-09-28T16:19:48+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://rubhl.github.io/acme-corporation/tags/</loc>
   </url>
 </urlset>

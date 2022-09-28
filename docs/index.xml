@@ -2,7 +2,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>acme on Acme Corporation</title>
-    <link>https://example.org/</link>
+    <link>https://rubhl.github.io/acme-corporation/</link>
     <description>Recent content in acme on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
@@ -10,87 +10,87 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Wed, 28 Sep 2022 17:00:00 +0200</lastBuildDate>
     
-        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rubhl.github.io/acme-corporation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title>Contancto</title>
-<link>https://example.org/contacto/</link>
+<link>https://rubhl.github.io/acme-corporation/contacto/</link>
 <pubDate>Wed, 28 Sep 2022 16:45:01 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/contacto/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/contacto/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>About</title>
-<link>https://example.org/about/</link>
+<link>https://rubhl.github.io/acme-corporation/about/</link>
 <pubDate>Wed, 28 Sep 2022 16:44:55 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/about/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/about/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Curriculum</title>
-<link>https://example.org/curriculum/</link>
+<link>https://rubhl.github.io/acme-corporation/curriculum/</link>
 <pubDate>Wed, 28 Sep 2022 16:21:59 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/curriculum/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/curriculum/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Viajar_barato</title>
-<link>https://example.org/blog/viajar_barato/</link>
+<link>https://rubhl.github.io/acme-corporation/blog/viajar_barato/</link>
 <pubDate>Wed, 28 Sep 2022 16:21:36 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/blog/viajar_barato/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/blog/viajar_barato/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Experiencias</title>
-<link>https://example.org/blog/experiencias/</link>
+<link>https://rubhl.github.io/acme-corporation/blog/experiencias/</link>
 <pubDate>Wed, 28 Sep 2022 16:21:18 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/blog/experiencias/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/blog/experiencias/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Vaciones</title>
-<link>https://example.org/blog/vacaciones/</link>
+<link>https://rubhl.github.io/acme-corporation/blog/vacaciones/</link>
 <pubDate>Wed, 28 Sep 2022 16:20:46 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/blog/vacaciones/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/blog/vacaciones/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>China</title>
-<link>https://example.org/viajes/china/</link>
+<link>https://rubhl.github.io/acme-corporation/viajes/china/</link>
 <pubDate>Wed, 28 Sep 2022 16:20:18 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/viajes/china/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/viajes/china/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Alemania</title>
-<link>https://example.org/viajes/alemania/</link>
+<link>https://rubhl.github.io/acme-corporation/viajes/alemania/</link>
 <pubDate>Wed, 28 Sep 2022 16:20:03 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/viajes/alemania/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/viajes/alemania/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Italia</title>
-<link>https://example.org/viajes/italia/</link>
+<link>https://rubhl.github.io/acme-corporation/viajes/italia/</link>
 <pubDate>Wed, 28 Sep 2022 16:19:48 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/viajes/italia/</guid>
+      <guid>https://rubhl.github.io/acme-corporation/viajes/italia/</guid>
 <description></description>
 <category></category></item>
     
