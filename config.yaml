@@ -1,7 +1,7 @@
 baseURL: https://rubhl.github.io/acme-corporation/
 languageCode: es-es 
 title: Acme Corporation 
-theme: Eclectic 
+theme: Basico
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -13,8 +13,20 @@ author:
 
 menu:
   main:
-    - identifier: viajes
-      name: viajes
+    - identifier: Peliculas
+      name: 🎬 Peliculas
+      url: /peliculas 
+      weight: 10 
+    - identifier: Television
+      name: 📺 Television
+      url: /television 
+      weight: 10  
+    - identifier: Centros
+      name: 🏨 Centros
+      url: /centros 
+      weight: 10 
+    - identifier: Viajes
+      name: ✈ Viajes
       url: /viajes 
       weight: 10 
     - identifier: Blog
@@ -22,7 +34,7 @@ menu:
       url: /blog 
       weight: 20 
     - identifier: Curriculum 
-      name: curriculum 
+      name: Curriculum 
       url: /curriculum 
       weight: 50  
     - identifier: about 
